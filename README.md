@@ -15,7 +15,7 @@ User Installation
 
     npm install apposition
     
-Initialize Appostion client via:
+Initialize Apposition client via:
 
     var AppositionClient = require('apposition');
     var client = new AppositionClient('<App ID>', '<App secret>');

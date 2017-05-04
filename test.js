@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2017. Appostion. https://apposition.io
+ * Copyright (c) 2017. Apposition. https://apposition.io
  **/
 
 /*jslint node: true */
