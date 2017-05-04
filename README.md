@@ -15,7 +15,7 @@ User Installation
 
     npm install apposition
     
-Initialize Fomo client via:
+Initialize Appostion client via:
 
     var AppositionClient = require('apposition');
     var client = new AppositionClient('<App ID>', '<App secret>');
