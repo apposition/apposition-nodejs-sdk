@@ -1,0 +1,24 @@
+{
+  "name": "apposition",
+  "version": "1.0.0",
+  "description": "Apposition SDK",
+  "author": "Apposition <help@apposition.io> (https://apposition.io)",
+  "contributors": [
+    "Dean Gostiša"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apposition/apposition-nodejs-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apposition/apposition-nodejs-sdk/issues"
+  },
+  "main": "./lib",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": ">=3.1.9-1"
+  }
+}
